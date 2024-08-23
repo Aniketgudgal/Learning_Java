@@ -24,6 +24,7 @@ class InsertJDBC
 			System.out.println("table created in database ... ");
 			con.close();
 
+
 			 /*check into a database if table is created or not 
 			  * desc is the commant to check the table  attributes is created or not 
 			  desc Table_Name;
